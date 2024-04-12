@@ -2,24 +2,18 @@
 
 ## Introduction
 
+In 2024, Brian Shaver of Fivos forked these guidelines from the Trivadis PL/SQL & SQL Coding Guidelines. This fork is based on their v4.4 guidelines release.
+
 Trivadis published their guidelines for PL/SQL &amp; SQL in 2009 in the context of the DOAG conference in Nuremberg. Since then these guidelines have been continuously extended and improved. Now they are managed as a set of markdown files. This makes the guidelines more adaptable for individual application needs and simplifies the continous improvement.
 
 ## HTML format
 
 HTML is the primary output format. [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) is used to generate static HTML files and [Mike](https://github.com/jimporter/mike) to publish version specific variants. The following sites are available:
 
-* [Current version based on the main branch, snapshot version of the coming release](https://trivadis.github.io/plsql-and-sql-coding-guidelines/main/)
-* [Latest Release](https://trivadis.github.io/plsql-and-sql-coding-guidelines/)
+* [Trivadis Current version based on the main branch, snapshot version of the coming release](https://trivadis.github.io/plsql-and-sql-coding-guidelines/main/)
+* [Latest Trivadis Release](https://trivadis.github.io/plsql-and-sql-coding-guidelines/)
 * Releases
-   * [Version 4.4](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v4.4/)
-   * [Version 4.3](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v4.3/)
-   * [Version 4.2](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v4.2/)
-   * [Version 4.1](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v4.1/)
-   * [Version 4.0](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v4.0/)
-   * [Version 3.6](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v3.6/)
-   * [Version 3.5](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v3.5/)
-   * [Version 3.4](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v3.4/)
-   * [Version 3.3](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v3.3/)
+   * [Trivadis Version 4.4](https://trivadis.github.io/plsql-and-sql-coding-guidelines/v4.4/)
 
 ## PDF format
 
@@ -65,4 +59,4 @@ The SQL code blocks in the Markdown files of this repository are automatically c
 
 ## License
 
-The Trivadis PL/SQL & SQL Coding Guidelines are licensed under the Apache License, Version 2.0. You may obtain a copy of the License at <http://www.apache.org/licenses/LICENSE-2.0>.
+The Fivos PL/SQL & SQL Coding Guidelines are licensed under the Apache License, Version 2.0. You may obtain a copy of the License at <http://www.apache.org/licenses/LICENSE-2.0>.
